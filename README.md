@@ -44,10 +44,10 @@ Each practice file is self-contained: every query is commented with the question
 
 ## 🗓️ Progress Log
 
-| Day | Focus Area          | Key Concepts                                                                                                    | File                                                                  |
-| --- | ------------------- | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| 01  | Joins & Aggregation | `INNER JOIN`, `LEFT JOIN`, `GROUP BY`, `HAVING`, `COUNT`, `SUM`, `AVG`, `COALESCE`, `CASE WHEN`                 | [day01_joins_groupby.sql](practice/day01_joins_groupby.sql)           |
-| 02  | Self Joins          | Self `JOIN`, hierarchical queries (employee-manager), pairwise comparisons, sequential/consecutive row analysis | [day02_self_joins_advance.sql](practice/day02_self_joins_advance.sql) |
+| Day | Date       | Focus Area          | Key Concepts                                                                                     | File                                                        |
+| --- | ---------- | ------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| 01  | 2026-08-15 | Joins & Aggregation | `INNER JOIN`, `LEFT JOIN`, `GROUP BY`, `HAVING`, `COUNT`, `SUM`, `AVG`, `COALESCE`, `CASE WHEN` | [day01_joins_groupby.sql](practice/day01_joins_groupby.sql) |
+| 02  | 2026-08-18 | Self Joins          | Self `JOIN`, hierarchical queries (employee-manager), pairwise comparisons, sequential row analysis | [day02_self_joins_advance.sql](practice/day02_self_joins_advance.sql) |
 
 _Updated after each practice session — one row per day._
 
@@ -63,7 +63,7 @@ A running index of SQL concepts practiced across all days, for quick reference:
 - **Hierarchical & pairwise queries:** employee-manager relationships, product/price comparisons within a category, pairwise customer matching
 - **Sequential row analysis:** comparing a row to the next/previous row using self joins on ordered keys
 
-_(This section grows as new concepts are introduced in later days — window functions, CTEs, subqueries, etc.)_
+_(This section grows as new concepts are introduced in later days — window functions, CTEs, subqueries, self-joins, etc.)_
 
 ---
 
